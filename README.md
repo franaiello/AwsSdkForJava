@@ -26,5 +26,7 @@ CorsParams:	*
 
 The exercises included here can be found [here](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/JavaDocumentAPICRUDExample.html)
 
+I also downloaded the sample Movie data in JSON format as described [here](http://docs.aws.amazon.com/amazondynamodb/latest/gettingstartedguide/GettingStarted.Java.02.html)
+
 ## Learning SNS
 This particular exercise will send a SNS notification message to a specific phone number.  
